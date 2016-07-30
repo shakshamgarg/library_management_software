@@ -6,3 +6,7 @@ with either bookname or authorname.
 Software also helps the lib search for particular student record,issue book,return book.
 username=user
 password=user
+Steps to run project:
+1)download Library.rar.
+2)extract/unzip the rar file.
+3)run Library.jar file inside dist folder with username and password as above.
